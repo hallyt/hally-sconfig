@@ -1,15 +1,15 @@
-## Hi, I am DHRUVI! Great to see you here! 👋
+## Hi, I am Hally! Great to see you here! 👋
 
 
 
-- 🔭 I’m currently working on TICKET BOOKING PROJECT 
-- 🌱 I’m currently learning DEVOPS
-- 📫 How to reach me: thakkardhruvi210@gmail.com 
+- 🔭 I’m currently working on Devops 
+- 🌱 I’m currently learning cryptography
+- 📫 How to reach me: tiwarihally@gmail.com
 - 😄 Pronouns: SHE/HER 
 
-<p align="center"> <a href="https://twitter.com/dhruvicodes" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvicodes?logo=twitter&style=for-the-badge" alt="dhruvithakkar" /></a> </p>
 
-I am DHRUVI THAKKAR, Currently I am working as Software Developer at Aurorepro, FOUNDER OF WOMEN'S TECH HUB, and Open source contributor. I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
+I am HALLY SHRIVASTAV, Currently I am a FOUNDER OF IT CALIBRE  and Open source contributor. I am a Full Stack Developer with experience building open source projects. I am a tech expert  & dev advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
 
