@@ -2,14 +2,14 @@
 
 
 
-- 🔭 I’m currently working on Devops 
-- 🌱 I’m currently learning cryptography
+- 🔭 I’m currently working on Data-Science,Machine Learning. 
+- 🌱 I’m currently learning AI
 - 📫 How to reach me: tiwarihally@gmail.com
 - 😄 Pronouns: SHE/HER 
 
 
 
-I am HALLY SHRIVASTAV, Currently I am a FOUNDER OF IT CALIBRE  and Open source contributor. I am a Full Stack Developer with experience building open source projects. I am a tech expert  & dev advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am HALLY SHRIVASTAVA, Currently I am a FOUNDER OF IT CALIBRE  and Open source contributor. I am a Full Stack Developer with experience building open source projects. I am a tech expert  & dev advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
 
